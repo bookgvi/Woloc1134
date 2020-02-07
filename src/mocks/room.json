@@ -1,0 +1,2497 @@
+{
+  "payment": {
+    "photo": {
+      "maxSeats": "",
+      "seats": "",
+      "seatPrice": "",
+      "discountToday": "",
+      "discountTomorrow": "",
+      "prices": [
+        {
+          "time": "0:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "1:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "2:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "4:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "5:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "6:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "7:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "8:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "9:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "10:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "11:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "13:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "15:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "17:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "18:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "19:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "20:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "21:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "22:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "23:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        }
+      ],
+      "pricesForHour": [
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        }
+      ]
+    },
+    "video": {
+      "maxSeats": "",
+      "seats": "",
+      "seatPrice": "",
+      "discountToday": "",
+      "discountTomorrow": "",
+      "prices": [
+        {
+          "time": "0:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "1:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "2:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "4:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "5:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "6:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "7:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "8:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "9:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "10:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "11:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "13:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "15:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "17:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "18:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "19:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "20:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "21:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "22:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "23:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        }
+      ],
+      "pricesForHour": [
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        }
+      ]
+    },
+    "event": {
+      "maxSeats": "",
+      "seats": "",
+      "seatPrice": "",
+      "discountToday": "",
+      "discountTomorrow": "",
+      "prices": [
+        {
+          "time": "0:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "1:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "2:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "3:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "4:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "5:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "6:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "7:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "8:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "9:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "10:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "11:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "12:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "13:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "14:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "15:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "16:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "17:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "18:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "19:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "20:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "21:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "22:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        },
+        {
+          "time": "23:00",
+          "days": [
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            },
+            {
+              "id": null,
+              "value": null
+            }
+          ]
+        }
+      ],
+      "pricesForHour": [
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        },
+        {
+          "id": null,
+          "value": null
+        }
+      ]
+    }
+  }
+}
